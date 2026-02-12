@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "finind"
+version = "0.1.0"
+description = "Lightweight financial indicators and signals (SMA, EMA, RSI, golden cross, etc.)"
+readme = "README.md"
+requires-python = ">=3.9"
+authors = [{name="VAISHALI J MEHTA"}]
+dependencies = ["pandas>=1.5", "numpy>=1.23","pytest"]
+
+license = "MIT"
+license-files = ["LICEN[CS]E*"]
+
+[tool.setuptools.packages.find]
+where = ["src"]

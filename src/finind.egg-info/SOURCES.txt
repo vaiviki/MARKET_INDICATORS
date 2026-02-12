@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+src/finind/__init__.py
+src/finind/core.py
+src/finind/indicators.py
+src/finind/signals.py
+src/finind.egg-info/PKG-INFO
+src/finind.egg-info/SOURCES.txt
+src/finind.egg-info/dependency_links.txt
+src/finind.egg-info/requires.txt
+src/finind.egg-info/top_level.txt
+tests/test_indicator.py
