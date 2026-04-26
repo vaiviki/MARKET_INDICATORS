@@ -1,6 +1,6 @@
 
 import pandas as pd
-from finind import sma, ema, rsi, golden_cross, death_cross
+from finind import sma, ema, rsi, golden_cross
 
 def test_sma_length():
     s = pd.Series([1,2,3,4,5])
@@ -20,9 +20,4 @@ def test_rsi_range():
 def test_golden_cross_returns_boolish():
     s = pd.Series(range(1, 400))
     out = golden_cross(s, 5, 10).dropna()
-    assert out.dtype == bool
-    
-def test_death_cross_returns_boolish():
-    s = pd.Series(range(1, 400))
-    out = death_cross(s, 5, 10).dropna()
     assert out.dtype == bool

@@ -1,4 +1,6 @@
+CHANGELOG.md
 LICENSE
+MANIFEST.in
 README.md
 pyproject.toml
 src/finind/__init__.py
