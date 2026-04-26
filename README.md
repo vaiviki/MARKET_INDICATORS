@@ -1,6 +1,13 @@
 # finind 📊
+# finind 📊
+
+[![PyPI version](https://img.shields.io/pypi/v/finind)](https://pypi.org/project/finind/)
+[![Python](https://img.shields.io/pypi/pyversions/finind)](https://pypi.org/project/finind/)
+[![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-black?logo=github)](https://github.com/vaiviki/MARKET_INDICATORS)
+[![GitHub stars](https://img.shields.io/github/stars/vaiviki/MARKET_INDICATORS?style=social)](https://github.com/vaiviki/MARKET_INDICATORS)
 
 A lightweight, fast, and clean **financial indicators & signal generation library** built on top of pandas.
+
 
 Designed for:
 
@@ -270,3 +277,12 @@ Not financial advice.
 
 
 ---
+## ⭐ Support
+
+If you find this project useful:
+
+- ⭐ Star the repo on GitHub  
+- 🐛 Report issues  
+- 🤝 Contribute improvements  
+
+It helps the project grow and reach more developers 🚀
