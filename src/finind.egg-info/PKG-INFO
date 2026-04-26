@@ -3,11 +3,14 @@ Name: finind
 Version: 0.1.0
 Summary: Lightweight financial indicators and signals (SMA, EMA, RSI, golden cross, etc.)
 Author: VAISHALI J MEHTA
+License-Expression: MIT
 Requires-Python: >=3.9
 Description-Content-Type: text/markdown
+License-File: LICENSE
 Requires-Dist: pandas>=1.5
 Requires-Dist: numpy>=1.23
 Requires-Dist: pytest
+Dynamic: license-file
 
 # finind
 

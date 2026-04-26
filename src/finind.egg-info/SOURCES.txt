@@ -1,3 +1,4 @@
+LICENSE
 README.md
 pyproject.toml
 src/finind/__init__.py
@@ -10,3 +11,4 @@ src/finind.egg-info/dependency_links.txt
 src/finind.egg-info/requires.txt
 src/finind.egg-info/top_level.txt
 tests/test_indicator.py
+tests/test_live_yfinance.py
